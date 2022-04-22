@@ -1,6 +1,6 @@
 # Oi, tudo bem? Estou finalizando o curso de Flexblox 🙃
 
-Esse é o repositório é para conclusão e entrega do desafio Flexbox, na qual fizemos a interface de login do Instagram! 
+Esse é o repositório para conclusão e entrega do desafio Flexbox, na qual fizemos a interface de login do Instagram! 
 
 ### Os requisitos foram:
 
